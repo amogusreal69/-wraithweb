@@ -1,0 +1,8 @@
+:root {
+  --primary-color: #FFA500;
+  --primary-color-rgb: 242, 133, 0;
+  --secondary-color: #ff8400;
+  --secondary-color-rgb: 255, 165, 0;
+  --tertiary-color: #F28500;
+  --tertiary-color-rgb: rgba(204, 85, 0);
+}
